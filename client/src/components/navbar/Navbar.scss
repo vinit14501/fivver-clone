@@ -21,7 +21,7 @@
   }
 
   .container {
-    width: 1080px;
+    width: 1400px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -43,7 +43,7 @@
       display: flex;
       align-items: center;
       gap: 24px;
-      font-family: 'Montserrat', sans-serif;
+      font-family: "Montserrat", sans-serif;
       font-weight: 500;
 
       span {
@@ -106,12 +106,12 @@
   }
 
   .menu {
-    width: 1080px;
+    width: 1400px;
     padding: 10px 0px;
     display: flex;
     justify-content: space-between;
     color: gray;
     font-weight: 300;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
   }
 }
